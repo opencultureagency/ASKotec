@@ -5,3 +5,4 @@
 
 Project partners: [Hyractech](https://github.com/HyracTech)
 - Learn about [hyracbox.com](https://www.hyracbox.com/)
+- crowdfunding at [betterplace.org/en/projects/63347](https://www.betterplace.org/en/projects/63347)
