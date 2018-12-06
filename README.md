@@ -28,7 +28,7 @@ Pencil Case (pen, pencil, erasor, sharpener, small brush, highlighter)||
 First Aid Kit||
 Soldering Iron Kit||
 Bread Board||
-Capacitos||
+Capacitors||
 Crocodile Clips||
 2 Way Switch||
 Tape||
