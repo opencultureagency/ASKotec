@@ -23,6 +23,6 @@
 
 type | costs | comment
 ---|---|---
-Tools|750,00 €
+Tools|650,00 €
 Materials|200,00 €
-Total| about 750 €
+Total| ~ 950 €
