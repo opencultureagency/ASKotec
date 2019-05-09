@@ -26,3 +26,7 @@ type | costs | comment
 Tools|650,00 €
 Materials|200,00 €
 Total| ~ 950 €
+
+
+
+![](Images/DSC_6834.JPG "#ASKotec")
