@@ -1,0 +1,18 @@
+[submodule "Guides/Open-Hardware-Guide"]
+	path = Guides/Open-Hardware-Guide
+	url = https://github.com/opencultureagency/Open-Hardware-Guide.git
+[submodule "Guides/Open-Learning-Guide"]
+	path = Guides/Open-Learning-Guide
+	url = https://github.com/opencultureagency/Open-Learning-Guide.git
+[submodule "Guides/Open-Training-Guide"]
+	path = Guides/Open-Training-Guide
+	url = https://github.com/opencultureagency/Open-Training-Guide.git
+[submodule "Guides/Packing-Guide"]
+	path = Guides/Packing-Guide
+	url = https://github.com/opencultureagency/ASKotec-packing-guide.git
+[submodule "Design"]
+	path = Design
+	url = https://github.com/opencultureagency/ASKotec-design.git
+[submodule "Training-Modules"]
+	path = Training-Modules
+	url = https://github.com/opencultureagency/ASKotec-training-modules.git
