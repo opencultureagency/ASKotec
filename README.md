@@ -15,6 +15,13 @@ in the effort to end the South Sudan conflict.
 ## Tutorials
 
 - [ASKnet Open Tech](https://wikifab.org/wiki/Group:ASKnet_Open_Tech#Tutorials) (wikifab)
+- [Training Modules Repository](https://github.com/opencultureagency/ASKotec-training-modules)
+- see also in the Guides (Open Learning Guide, **Open Hardware Guide**, Open Training Guide)
+
+More Video, Photo and binary material can be found in our Cloud:
+https://cloud.openculture.agency/s/weSEEpGcwCALrT8
+
+
 
 ## Costs
 
@@ -28,15 +35,24 @@ Total     | ~ 950 €
 
 - Support us: crowdfunding at <https://www.betterplace.org/en/projects/63347>
 
-![](thumbs/thumb-5.png "#ASKotec")
 
 ![](thumbs/thumb-6.jpg "HyracBox")
 
-A new part just added before the release:
+
 
 - Learn about [hyracbox.com](https://www.hyracbox.com/),
   developed by our project partners at
   [Hyractech](https://github.com/HyracTech)
+
+
+**Some new features added for Release 2.0:**
+
+- the case is now equiped with hook and loop parts
+![](thumbs/thumb-5.jpg "#ASKotec")
+
+- Everything for traveling with air can now easily be separated into main and hand luggage
+![](thumbs/thumb-5-5.jpg "#ASKotec")
+
 
 ## Public Relation
 
@@ -68,11 +84,6 @@ gives rural and urban innovators a new point of entrance.
 - designed for post-conflict and post-disaster regions
 - schools and communities in remote regions
 - ... and many more
-
-### How to get the whole projects data?
-
-If you have `git` installed, you can get the data with the command
-`git clone --recurse-submodules https://github.com/opencultureagency/ASKotec.git`.
 
 ## Open Hardware Links and Open Linux Software
 
@@ -161,3 +172,5 @@ sudo apt install gdebi software-properties-common libavcodec-extra ffmpeg \
 
 ![](thumbs/thumb-7.jpg "#ASKotec")
 
+Pictures Created by Timm Wille
+Group Picture by Jaiksane
