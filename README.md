@@ -69,6 +69,11 @@ gives rural and urban innovators a new point of entrance.
 - schools and communities in remote regions
 - ... and many more
 
+### How to get the whole projects data?
+
+If you have `git` installed, you can get the data with the command
+`git clone --recurse-submodules https://github.com/opencultureagency/ASKotec.git`.
+
 ## Open Hardware Links and Open Linux Software
 
 For links, see the [Open Learning Guide (2015)](
