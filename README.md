@@ -155,3 +155,4 @@ sudo apt install gdebi software-properties-common libavcodec-extra ffmpeg \
 ---
 
 ![](thumbs/thumb-7.jpg "#ASKotec")
+
