@@ -1,5 +1,4 @@
-TYPE;NAME;DETAIL;QUAN;PRICE in Euro;"TOTAL
-PRICE in Euro";SHOP;SOURCE
+TYPE;NAME;DETAIL;QUAN;PRICE in Euro;TOTAL PRICE in Euro;SHOP;SOURCE
 I;Askotec Table of Content + Packing/Un-Packing Guide;;1;0;0;r0g;
 I;OLG + OHG + OTG (1 each);Open Learning Guide, Open Hardware Guide, Open Training Guide;1;0;0;r0g;
 M;1 Way Switch;WS 13x19-1E rocker switch;10;0,3;3;SEGOR;
