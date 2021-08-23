@@ -1,109 +1,109 @@
 TYPE,NAME,DETAIL,QUAN,PRICE in Euro,TOTAL PRICE in Euro,SHOP,SOURCE
-I,Askotec Table of Content + Packing/Un-Packing Guide,-,1,0,0,r0g,-
-I,OLG + OHG + OTG (1 each),Open Learning Guide; Open Hardware Guide; Open Training Guide,1,0,0,r0g,-
-M,1 Way Switch,WS 13x19-1E rocker switch,10,0.3,3,SEGOR,-
-M,1.5 V AA Batteries,Alkaline 1.5 V AA/LR6 (pack of 24),4,0.3,1.21,reichelt,https://www.reichelt.com/de/de/alkaline-batterie-aa-mignon-24er-pack-gp-al24-aa-p258905.html?&trstct=pos_1
-M,3 Way Switch (I 0 II),ø23mm; black; 10(4)A 250V~ / 10A 24V-,5,0.92,4.6,reichelt,https://www.reichelt.de/wippenschalter-rund-1x-ein-aus-ein-ws-r13-112-daaa-p105445.html?&trstct=pol_4
-M,4 In 1 USB Hub,DIGITUS DA-70216; USB 2.0 Hub; 100cm,2,6.6,13.2,reichelt,https://www.reichelt.com/de/de/digitus-usb-2-0-4-port-kabel-hub-100cm-digitus-da-70216-p116474.html
-M,4V Solar Panel 200mA,SOLAR SM4200 solar cell; encapsulated; 4 V; 0.2 A,10,8.6,86,reichelt,https://www.reichelt.de/solarzelle-vergossen-4-v-0-2-a-solar-sm4200-p159961.html?&trstct=pos_3
-M,5V Regulator,7805 +5V 1A TO220,10,0.32,3.2,SEGOR,-
-M,Batteries CR 2032,CR 2032 X5 RND Lithium button cell; 3 V; 20.0x3.2 mm; pack of 5,5,0.6,2.99,reichelt,https://www.reichelt.com/de/de/lithium-knopfzelle-3-v-20-0x3-2-mm-sparpack-cr-2032-x5-rnd-p222558.html
-M,Battery Case (3-2),BH 3-2 smaller black case + wires,1,1.3,1.3,SEGOR,-
-M,Battery Case (3-3),BH 3-3 bigger black case + wires,2,1.5,3,SEGOR,-
-M,Battery Wire Connectors,9V connection BC-9I,2,0.25,0.5,SEGOR,-
-M,Big Led Lights White,10mm WS/150CD-35 120 mA 6500K,10,0.84,8.4,SEGOR,-
-M,Black Iso Tape,ISOBAND black VDE; 10 m x 15 mm,1,0.55,0.55,reichelt,https://www.reichelt.com/de/de/vde-isolierband-10-m-breite-15-mm-schwarz-isoband-sw-p8975.html?&trstct=pos_6
-M,Capacitors 100µF,100 µF 25 V,10,0.16,1.6,SEGOR,-
-M,Capacitors 10µF,10 µF 35 V,10,0.08,0.8,SEGOR,-
-M,Circuit Board,811/5-5*100MM dot matrix,5,1,5,SEGOR,-
-M,Crocodile Clips (PACK OF 10),MK 612S connection lines. pack of 10,2,1.5,3,reichelt,https://www.reichelt.com/de/de/verbindungsleitungs-satz-10-teilig-mk-612s-p12242.html?&trstct=pos_0
-M,Desinfaction spray,wound spray,1,5.95,5.95,DM,-
-M,Diodes,1000V 1A UNIVERSAL DIODE (1N 4007),20,0.04,0.8,SEGOR,-
-M,Duck Tape,TESA 56389 SW 50 m x 50 mm,1,7.95,7.95,reichelt,https://www.reichelt.com/de/de/folienband-tesa-extra-power-universal-50-m-x-50-mm-schwarz-tesa-56389-sw-p78959.html
-M,First Aid Kit ,Wundmed first aid set + belt loop (32 parts),1,3.3,3.3,Real,https://www.real.de/product/309711227/
-M,Garden Wire,Gardol Silver; zinc-plated; 40 m; 0.65 mm,1,1.89,1.89,BAUHAUS,https://www.bauhaus.info/pflanzenbinder/gardol-gartendraht/p/24803731
-M,Glue stick,UHU stick 21g,1,2.49,2.49,BAUHAUS,https://www.bauhaus.info/kontaktkleber-alleskleber/uhu-klebstift-stic/p/15358104
-M,Heat Shrink Tubes (PACK OF 100),DELOCK 86271. black pack of 100,1,3.99,3.99,reichelt,https://www.reichelt.com/de/de/schrumpfschlauch-sortiment-schwarz-100-teilig-delock-86271-p152924.html
-M,Jumper Wire M/F (PACK OF 40),FlexJumper 10M/F (40x),1,4.4,4.4,SEGOR,-
-M,Jumper Wire M/M (PACK OF 40),FlexJumper 10M/M (40x),1,4.5,4.5,SEGOR,-
-M,Led Lights Mini Red,3 RT / -25X (pack of 25) (3mm),25,0.07,1.75,SEGOR,-
-M,Led Lights Mini White,LED 5 uh ws/23cd-15°,10,0.12,1.16,SEGOR,-
-M,Monobloc battery 9V,Alkaline; RND (pack of 10),2,1,2,reichelt,https://www.reichelt.com/de/de/alkaline-batterie-9-v-block-10er-pack-rnd-10x-9v-p222555.html?&trstct=pos_1
-M,Ointment Gel ,wound-healing gel,1,3.95,3.95,DM,-
-M,plastic bags,PE/G 80x120 (100x),20,0.02,0.46,SEGOR,-
-M,Rechargeable Batteries in a case (PACK OF 4),AA Mignon-eneloop/Box (4x) 2800mA + plastic case,2,1.5,3,reichelt,https://www.reichelt.com/de/de/lithium-batterie-aa-mignon-2800-mah-4er-pack-rnd-li-4xaa-p253979.html
-M,Resistors 10 Ω,10R-0204-1% 0.4W TK50,50,0.02,1.15,SEGOR,-
-M,Resistors 100 Ω,100R-0204-1% 0.4W,50,0.02,1.15,SEGOR,-
-M,Resistors 1000 Ω,1kR-0204-1% 0.4W,50,0.02,1.15,SEGOR,-
-M,Resistors 15 Ω,15R-0204-1% 0.4W TK50,50,0.02,1.15,SEGOR,-
-M,Resistors 300 Ω,300R-0204-1% 0.4W TK50,50,0.02,1.15,SEGOR,-
-M,Sand Paper Piece,small piece of sandpaper sheet 100,1,0.95,0.95,BAUHAUS,https://www.bauhaus.info/schleifboegen/bauhaus-schleifpapier-gewebe/p/11376087
-M,Single Color Black Wire,LIYV0.5SW 25m (BLACK),1,7,7,SEGOR,-
-M,Single Color Red Wire,LIYV0.5RT 25m (RED),1,7,7,SEGOR,-
-M,Small Trainer Notepad,Spiral Block A6,1,1.19,1.19,PAPER-LA-PAP,-
-M,Solder roll,ø 1mm; 100g; leaded,1,3.7,3.7,reichelt,https://www.reichelt.com/de/de/loetzinn-bleihaltig-halogenhaltig-1-0-mm-100-g-lz-fe-1-0-100-p30439.html?&trstct=pos_0
-M,Soldering Grease,KOLOPHONIUM 20 G STANNOL,1,3.5,3.5,SEGOR,-
-M,Sticky Notes,yellow sticky notes pack of 3x 100 small,3,0.33,0.99,PAPER-LA-PAP,-
-M,Strong Allround Glue,50g Allround Glue strong Uhu,1,2.29,2.29,BAUHAUS,https://www.bauhaus.info/kontaktkleber-alleskleber/pattex-alleskleber-multi/p/20419880
-M,SuperGlue Pipette,10g SuperGlue extra strong Pipette,1,6.85,6.85,BAUHAUS,https://www.bauhaus.info/sekundenkleber/uhu-sekundenkleber-blitzschnell/p/15358348
-M,Twin Wires,LIY 2*0.14RT/SW 5M,1,2.2,2.2,SEGOR,-
-M,Twine,Stabilit plastic twine (pack of 2),1,1.88,1.88,BAUHAUS,https://www.bauhaus.info/naturseile/stabilit-bindfaden/p/10191067
-M,Zip Ties mid size (PACK OF 100),100 zip ties black; 200x3.6mm,1,3.8,3.8,SEGOR,-
-T,Arduino Starter Set V3,STARTER SET V3,1,69,69,SEGOR,https://www.segor.de/INFO/startersets/arduino-starterset-v3.shtml
-T,Assortment box,310x105x40mm 8 partitions PP 200/CA,1,7.5,7.5,SEGOR,https://www.segor.de/#Q=PP200%252FCA(o.Tw)&M=1
-T,Battery Soldering Iron,8W,1,3.95,3.95,reichelt,https://www.reichelt.com/de/de/loetkolben-batteriebetrieben-8-w-kolben-zd-20d-p90936.html?&trstct=pol_0
-T,Bread Board,Protoboard Size 400,1,4.8,4.8,SEGOR,-
-T,Bread Board Small,Protoboard Size 170,4,2.7,10.8,SEGOR,-
-T,Calculator,REBELL ECO10 Eco line; black,1,4.19,4.19,reichelt,https://www.reichelt.com/de/de/taschenrechner-eco-line-8-stellen-schwarz-rebell-eco10-p253933.html
-T,Case,MAX520,1,79.95,79.95,max-koffer,-
-T,Case straps,trolley system MAX520,1,16.95,16.95,max-koffer,https://www.max-koffer.de/de/max-koffer-wasserdicht-staubdicht-schlagfest-ip67-getestet/zubeh%C3%B6r/maxpack-rucksack-system-f%C3%BCr-die-modelle-max520tr-max540h190tr-und-max540h245tr/
-T,Case trolley,backpack system MAX520TR,1,45,45,max-koffer,https://www.max-koffer.de/de/max-koffer-wasserdicht-staubdicht-schlagfest-ip67-getestet/zubeh%C3%B6r/trolley-griff-zur-nachr%C3%BCstung-an-koffer-trolleykoffer-outdoor-wasserdicht-staubdicht-robust/
-T,Chopsticks (PAIR),simple chopsticks non conductive material,1,0,0,asia imbiss,-
-T,Clipboard With Paper,black,1,1.95,1.95,reichelt,https://www.reichelt.com/de/de/klemmbrett-schwarz-klemmbrett-sw-p192365.html
-T,Combination Chain Lock,for bicycles 4 combination wheels,1,5.6,5.6,reichelt,https://www.reichelt.com/de/de/fahrrad-spiralkabel-zahlenschloss-bike-43007-p66206.html?&trstct=pos_0
-T,Copper Solder Cleaner,AA 2mm 1.6m STANNOL,1,2.4,2.4,SEGOR,-
-T,Cutter,FISKARS 1397 cutter; 9 mm blade,1,1.4,1.4,reichelt,https://www.reichelt.com/de/de/cuttermesser-flach-9-mm-klinge-fiskars-1397-p177117.html
-T,Cutter blades (PACK OF 10),FISKARS 1391 10x 9 mm replacement blades,1,1.1,1.1,reichelt,https://www.reichelt.com/de/de/ersatzklingen-9-mm-klinge-fiskars-1391-p177118.html
-T,Eraser,small eraser,1,1,1,PAPER-LA-PAP,-
-T,Hacksaw (incl. 12 blades),MINI SAEGE 12 ::150 mm blades,1,2.15,2.15,reichelt,https://www.reichelt.com/de/de/buegelsaege-mit-12-saegeblaettern-150-mm-mini-saege-12-p118052.html
-T,Headlamp,Arcas 3W LED; 120 lumen,1,14.99,14.99,Stadler,https://shop.zweirad-stadler.de/Fahrrad-Teile/Elektronik/Outdoorbeleuchtung/Arcas-3W-LED-Stirnlampe.html?listtype=search&searchparam=kopflampe
-T,Headphones,HQ-HP107IE :: In-Ear Stereo,1,2,2,reichelt,https://www.reichelt.com/de/de/in-ear-stereo-kopfhoerer-hq-hp107ie-p162299.html?&trstct=pos_1
-T,HyracBox,small/big offline server for storing links to important open resources | comes with cable & battery pack,1,0,0,r0g/HyracBox,https://www.hyracbox.com/solutions
-T,keyboard replacement stickers USA layout,keyboard replacement stickers USA layout – maxi (14x14),1,6.99,6.99,tastaturaufkleber.eu,https://www.tastaturaufkleber.eu/Tastaturaufkleber/Tastaturaufkleber-PC/Englisch/Tastaturaufkleber-ENGLISCH-USA-MAXI::92.html?MODsid=vqkqk93o35mf3jnu1dnm3b4tp7
-T,Laptop | Dell E7240 with OS,Dell Latitude E7240 i5-4300U 1.9GHz 8GB 128GB SSD 12.5 Zorin Educational LITE 14,1,169.9,169.9,brandused,-
-T,LED Tester,LED TESTER 2...150MA,1,6.8,6.8,SEGOR,https://www.reichelt.com/de/de/testgeraet-fuer-leds-led-tester-p32856.html
-T,Lighter,small one (e.g. BIG),1,1,1,Späti,-
-T,Marker,permanent marker 3000 Edding black,1,1.99,1.99,PAPER-LA-PAP,-
-T,Mechanical Tool Set Black And Decker,black-orange rolled up tool bag,1,40,40,AMAZON,https://smile.amazon.de/gp/product/B003BUAE70/ 
-T,Metal ruler,,1,0.99,0.99,PAPER-LA-PAP,-
-T,Multi Battery Charger,ANS 1001-0019 PhotoCam Vario; for all rechargeable batteries,1,18.2,18.2,reichelt,https://www.reichelt.com/de/de/ladegeraet-photocam-vario-fuer-akkupacks-und-akkus-ans-1001-0019-p202581.html
-T,Multimeter,MS 8233 B with display light,1,14,14,SEGOR,-
-T,Notebook Sleeve 11.6“,Vivanco Notebook Sleeve 11.6,1,12.99,12.99,SATURN,-
-T,Pen,,1,0.6,0.6,PAPER-LA-PAP,-
-T,Pencil + eraser,,1,1.19,1.19,PAPER-LA-PAP,-
-T,Pencil Pouch ,nylon zipper bag (Pen; Pencil; Sharpener; Small Brush; Highlighter; Marker; Metal Ruler),1,3.79,3.79,PAPER-LA-PAP,-
-T,Plastic Containers,BOX 11/40  small plastic storage container with lid,4,0.5,2,SEGOR,-
-T,Plastic Zipper Bag A4,blue zipper,1,3.5,3.5,Modulor,https://www.modulor.de/reissverschlussbeutel-transparent-265-x-350-fuer-din-a4-reissverschluss-blau.html
-T,Plastic Zipper Bag A6,orange zipper,5,1.5,7.5,Modulor,https://www.modulor.de/reissverschlussbeutel-transparent-140-x-178-fuer-din-a6-reissverschluss-orange-oxid.html
-T,Plastic Zipper Bag B6,red zipper,2,1.9,3.8,Modulor,https://www.modulor.de/reissverschlussbeutel-transparent-180-x-225-fuer-din-b6-reissverschluss-rot.html
-T,Protractor / Ruler,length 160mm,1,1.75,1.75,reichelt,https://www.reichelt.com/de/de/geo-dreieck-hypotenuse-laenge-160mm-ar-1552-p53361.html?&trstct=pos_0
-T,Radio Set,FM - MODUL SI 4703,1,7.9,7.9,SEGOR,-
-T,Scissors,REXEL 2104242 stainless steel; grün,1,3.95,3.95,reichelt,https://www.reichelt.com/de/de/edelstahlschere-x3-gruen-rexel-2104242-p178165.html
-T,Sewing Kit,basic sewing threads and needles and magnifying glas,1,7.99,7.99,AMAZON,https://smile.amazon.de/gp/product/B075ZYCQK1 
-T,Sharpener,,1,0.4,0.4,PAPER-LA-PAP,-
-T,Small Brush,small yellow-haired paint brush,1,0.85,0.85,PAPER-LA-PAP,-
-T,Small Combination Padlock,ABUS Jet Set | 155,1,6.95,6.95,BAUHAUS,https://www.bauhaus.info/vorhaengeschloesser/abus-vorhaengezahlenschloss-15520/p/10170332
-T,Soldering Iron Tray,CLEANER 460A incl. cleaner,1,5.95,5.95,reichelt,https://www.reichelt.com/de/de/loetkolbenablage-und-loetspitzenreiniger-cleaner-460a-p87381.html?&trstct=pos_0
-T,Soldering tip (extra),round; 3.9mm,1,1.8,1.8,SEGOR,-
-T,Textile Tool Box,Travel bag/box; Wera 2 Go 3; Textile; 325x130x80 mm; black with velcro ,1,25.3,25.3,reichelt,https://www.reichelt.com/de/de/werkzeug-box-wera-2-go-3-textil-325x130x80-mm-wera-2go-3-p196338.html
-T,Third hand,Third Hand Tool with Magnifying Glass,1,4.75,4.75,reichelt,https://www.reichelt.de/platinenhalter-mit-lupe-mit-standfuss-helfende-hand-halter-zd-10d-p90934.html
-T,Tool bag + soldering iron,FIXPOINT 45243 tool bag + soldering iron; 20 parts,1,30.95,30.95,reichelt,https://www.reichelt.com/de/de/werkzeugtasche-und-loetkolben-set-20-teilig-fixpoint-45243-p244928.html
-T,Torx Bits (T7; T8; T9),T3 T4 T5 T6 T7 T8 T9 T10 T15 T20 28mm,1,1.89,1.89,ebay,https://www.ebay.de/itm/10-tlg-Torx-Bit-Set-mit-Loch-T3-T4-T5-T6-T7-T8-T9-T10-T15-T20-28mm-LANG-Stuck-DE/223492722109?hash=item3409344dbd:g:h4EAAOSwDvBcv~q5
-T,Travel Adapter,KW 38462 including USB plug,1,12.99,12.99,reichelt,https://www.reichelt.com/de/de/universal-reiseadapter-mit-integriertem-usb-ladegeraet-kw-38462-p242808.html
-T,Universal Mobile repair Kit,GB 44690 for smartphones; 17 parts; incl. Pentalobe,1,11.1,11.1,reichelt,https://www.reichelt.com/de/de/werkzeugsatz-handy-und-smartphone-17-teilig-inkl-pentalobe-gb-44690-p185964.html
-T,USB flash drive (32GB),TOS U301W0320E4 USB-Stick; USB 3.0; 32 GB; U301 white,1,6.95,6.95,reichelt,https://www.reichelt.com/de/de/usb-stick-usb-3-0-32-gb-u301-weiss-tos-u301w0320e4-p164697.html?&trstct=pol_9
-T,USB Volt- & Amperemeter,USB Detector/DualDisplay Charger Doctor,1,3.3,3.3,reichelt,https://www.reichelt.com/de/de/raspberry-pi-ampere-voltmeter-1-fach-usb-rpi-usb-meter1-p223622.html 
-T,Velcro hook band (30mm),self-adhesive,1,2.9,2.9,klettladen.de,https://www.klettladen.de/product_info.php/products_id/168
-T,Velcro loop band (100mm),self-adhesive,2,6.88,13.76,klettladen.de,https://www.klettladen.de/product_info.php/products_id/165
-T,Wire Cutter,red & slim,1,4.2,4.2,SEGOR,-
-T,Workplace Textile,A0 heavy cotton; grey,0.9,8.9,8.01,Modulor,https://www.modulor.de/schwerer-baumwollstoff-canvas-uni-4795-b-ca-1440-mm-hellgrau-62.html
+Information,Askotec Table of Content + Packing/Un-Packing Guide,-,1,0,0,r0g,-
+Information,OLG + OHG + OTG (1 each),Open Learning Guide; Open Hardware Guide; Open Training Guide,1,0,0,r0g,-
+Material,1 Way Switch,WS 13x19-1E rocker switch,10,0.3,3,SEGOR,-
+Material,1.5 V AA Batteries,Alkaline 1.5 V AA/LR6 (pack of 24),4,0.3,1.21,reichelt,https://www.reichelt.com/de/de/alkaline-batterie-aa-mignon-24er-pack-gp-al24-aa-p258905.html?&trstct=pos_1
+Material,3 Way Switch (I 0 II),ø23mm; black; 10(4)A 250V~ / 10A 24V-,5,0.92,4.6,reichelt,https://www.reichelt.de/wippenschalter-rund-1x-ein-aus-ein-ws-r13-112-daaa-p105445.html?&trstct=pol_4
+Material,4 In 1 USB Hub,DIGITUS DA-70216; USB 2.0 Hub; 100cm,2,6.6,13.2,reichelt,https://www.reichelt.com/de/de/digitus-usb-2-0-4-port-kabel-hub-100cm-digitus-da-70216-p116474.html
+Material,4V Solar Panel 200mA,SOLAR SM4200 solar cell; encapsulated; 4 V; 0.2 A,10,8.6,86,reichelt,https://www.reichelt.de/solarzelle-vergossen-4-v-0-2-a-solar-sm4200-p159961.html?&trstct=pos_3
+Material,5V Regulator,7805 +5V 1A TO220,10,0.32,3.2,SEGOR,-
+Material,Batteries CR 2032,CR 2032 X5 RND Lithium button cell; 3 V; 20.0x3.2 mm; pack of 5,5,0.6,2.99,reichelt,https://www.reichelt.com/de/de/lithium-knopfzelle-3-v-20-0x3-2-mm-sparpack-cr-2032-x5-rnd-p222558.html
+Material,Battery Case (3-2),BH 3-2 smaller black case + wires,1,1.3,1.3,SEGOR,-
+Material,Battery Case (3-3),BH 3-3 bigger black case + wires,2,1.5,3,SEGOR,-
+Material,Battery Wire Connectors,9V connection BC-9I,2,0.25,0.5,SEGOR,-
+Material,Big Led Lights White,10mm WS/150CD-35 120 mA 6500K,10,0.84,8.4,SEGOR,-
+Material,Black Iso Tape,ISOBAND black VDE; 10 m x 15 mm,1,0.55,0.55,reichelt,https://www.reichelt.com/de/de/vde-isolierband-10-m-breite-15-mm-schwarz-isoband-sw-p8975.html?&trstct=pos_6
+Material,Capacitors 100µF,100 µF 25 V,10,0.16,1.6,SEGOR,-
+Material,Capacitors 10µF,10 µF 35 V,10,0.08,0.8,SEGOR,-
+Material,Circuit Board,811/5-5*100MM dot matrix,5,1,5,SEGOR,-
+Material,Crocodile Clips (PACK OF 10),MK 612S connection lines. pack of 10,2,1.5,3,reichelt,https://www.reichelt.com/de/de/verbindungsleitungs-satz-10-teilig-mk-612s-p12242.html?&trstct=pos_0
+Material,Desinfaction spray,wound spray,1,5.95,5.95,DM,-
+Material,Diodes,1000V 1A UNIVERSAL DIODE (1N 4007),20,0.04,0.8,SEGOR,-
+Material,Duck Tape,TESA 56389 SW 50 m x 50 mm,1,7.95,7.95,reichelt,https://www.reichelt.com/de/de/folienband-tesa-extra-power-universal-50-m-x-50-mm-schwarz-tesa-56389-sw-p78959.html
+Material,First Aid Kit ,Wundmed first aid set + belt loop (32 parts),1,3.3,3.3,Real,https://www.real.de/product/309711227/
+Material,Garden Wire,Gardol Silver; zinc-plated; 40 m; 0.65 mm,1,1.89,1.89,BAUHAUS,https://www.bauhaus.info/pflanzenbinder/gardol-gartendraht/p/24803731
+Material,Glue stick,UHU stick 21g,1,2.49,2.49,BAUHAUS,https://www.bauhaus.info/kontaktkleber-alleskleber/uhu-klebstift-stic/p/15358104
+Material,Heat Shrink Tubes (PACK OF 100),DELOCK 86271. black pack of 100,1,3.99,3.99,reichelt,https://www.reichelt.com/de/de/schrumpfschlauch-sortiment-schwarz-100-teilig-delock-86271-p152924.html
+Material,Jumper Wire M/F (PACK OF 40),FlexJumper 10M/F (40x),1,4.4,4.4,SEGOR,-
+Material,Jumper Wire M/M (PACK OF 40),FlexJumper 10M/M (40x),1,4.5,4.5,SEGOR,-
+Material,Led Lights Mini Red,3 RT / -25X (pack of 25) (3mm),25,0.07,1.75,SEGOR,-
+Material,Led Lights Mini White,LED 5 uh ws/23cd-15°,10,0.12,1.16,SEGOR,-
+Material,Monobloc battery 9V,Alkaline; RND (pack of 10),2,1,2,reichelt,https://www.reichelt.com/de/de/alkaline-batterie-9-v-block-10er-pack-rnd-10x-9v-p222555.html?&trstct=pos_1
+Material,Ointment Gel ,wound-healing gel,1,3.95,3.95,DM,-
+Material,plastic bags,PE/G 80x120 (100x),20,0.02,0.46,SEGOR,-
+Material,Rechargeable Batteries in a case (PACK OF 4),AA Mignon-eneloop/Box (4x) 2800mA + plastic case,2,1.5,3,reichelt,https://www.reichelt.com/de/de/lithium-batterie-aa-mignon-2800-mah-4er-pack-rnd-li-4xaa-p253979.html
+Material,Resistors 10 Ω,10R-0204-1% 0.4W TK50,50,0.02,1.15,SEGOR,-
+Material,Resistors 100 Ω,100R-0204-1% 0.4W,50,0.02,1.15,SEGOR,-
+Material,Resistors 1000 Ω,1kR-0204-1% 0.4W,50,0.02,1.15,SEGOR,-
+Material,Resistors 15 Ω,15R-0204-1% 0.4W TK50,50,0.02,1.15,SEGOR,-
+Material,Resistors 300 Ω,300R-0204-1% 0.4W TK50,50,0.02,1.15,SEGOR,-
+Material,Sand Paper Piece,small piece of sandpaper sheet 100,1,0.95,0.95,BAUHAUS,https://www.bauhaus.info/schleifboegen/bauhaus-schleifpapier-gewebe/p/11376087
+Material,Single Color Black Wire,LIYV0.5SW 25m (BLACK),1,7,7,SEGOR,-
+Material,Single Color Red Wire,LIYV0.5RT 25m (RED),1,7,7,SEGOR,-
+Material,Small Trainer Notepad,Spiral Block A6,1,1.19,1.19,PAPER-LA-PAP,-
+Material,Solder roll,ø 1mm; 100g; leaded,1,3.7,3.7,reichelt,https://www.reichelt.com/de/de/loetzinn-bleihaltig-halogenhaltig-1-0-mm-100-g-lz-fe-1-0-100-p30439.html?&trstct=pos_0
+Material,Soldering Grease,KOLOPHONIUM 20 G STANNOL,1,3.5,3.5,SEGOR,-
+Material,Sticky Notes,yellow sticky notes pack of 3x 100 small,3,0.33,0.99,PAPER-LA-PAP,-
+Material,Strong Allround Glue,50g Allround Glue strong Uhu,1,2.29,2.29,BAUHAUS,https://www.bauhaus.info/kontaktkleber-alleskleber/pattex-alleskleber-multi/p/20419880
+Material,SuperGlue Pipette,10g SuperGlue extra strong Pipette,1,6.85,6.85,BAUHAUS,https://www.bauhaus.info/sekundenkleber/uhu-sekundenkleber-blitzschnell/p/15358348
+Material,Twin Wires,LIY 2*0.14RT/SW 5M,1,2.2,2.2,SEGOR,-
+Material,Twine,Stabilit plastic twine (pack of 2),1,1.88,1.88,BAUHAUS,https://www.bauhaus.info/naturseile/stabilit-bindfaden/p/10191067
+Material,Zip Ties mid size (PACK OF 100),100 zip ties black; 200x3.6mm,1,3.8,3.8,SEGOR,-
+Tool,Arduino Starter Set V3,STARTER SET V3,1,69,69,SEGOR,https://www.segor.de/INFO/startersets/arduino-starterset-v3.shtml
+Tool,Assortment box,310x105x40mm 8 partitions PP 200/CA,1,7.5,7.5,SEGOR,https://www.segor.de/#Q=PP200%252FCA(o.Tw)&M=1
+Tool,Battery Soldering Iron,8W,1,3.95,3.95,reichelt,https://www.reichelt.com/de/de/loetkolben-batteriebetrieben-8-w-kolben-zd-20d-p90936.html?&trstct=pol_0
+Tool,Bread Board,Protoboard Size 400,1,4.8,4.8,SEGOR,-
+Tool,Bread Board Small,Protoboard Size 170,4,2.7,10.8,SEGOR,-
+Tool,Calculator,REBELL ECO10 Eco line; black,1,4.19,4.19,reichelt,https://www.reichelt.com/de/de/taschenrechner-eco-line-8-stellen-schwarz-rebell-eco10-p253933.html
+Tool,Case,MAX520,1,79.95,79.95,max-koffer,-
+Tool,Case straps,trolley system MAX520,1,16.95,16.95,max-koffer,https://www.max-koffer.de/de/max-koffer-wasserdicht-staubdicht-schlagfest-ip67-getestet/zubeh%C3%B6r/maxpack-rucksack-system-f%C3%BCr-die-modelle-max520tr-max540h190tr-und-max540h245tr/
+Tool,Case trolley,backpack system MAX520TR,1,45,45,max-koffer,https://www.max-koffer.de/de/max-koffer-wasserdicht-staubdicht-schlagfest-ip67-getestet/zubeh%C3%B6r/trolley-griff-zur-nachr%C3%BCstung-an-koffer-trolleykoffer-outdoor-wasserdicht-staubdicht-robust/
+Tool,Chopsticks (PAIR),simple chopsticks non conductive material,1,0,0,asia imbiss,-
+Tool,Clipboard With Paper,black,1,1.95,1.95,reichelt,https://www.reichelt.com/de/de/klemmbrett-schwarz-klemmbrett-sw-p192365.html
+Tool,Combination Chain Lock,for bicycles 4 combination wheels,1,5.6,5.6,reichelt,https://www.reichelt.com/de/de/fahrrad-spiralkabel-zahlenschloss-bike-43007-p66206.html?&trstct=pos_0
+Tool,Copper Solder Cleaner,AA 2mm 1.6m STANNOL,1,2.4,2.4,SEGOR,-
+Tool,Cutter,FISKARS 1397 cutter; 9 mm blade,1,1.4,1.4,reichelt,https://www.reichelt.com/de/de/cuttermesser-flach-9-mm-klinge-fiskars-1397-p177117.html
+Tool,Cutter blades (PACK OF 10),FISKARS 1391 10x 9 mm replacement blades,1,1.1,1.1,reichelt,https://www.reichelt.com/de/de/ersatzklingen-9-mm-klinge-fiskars-1391-p177118.html
+Tool,Eraser,small eraser,1,1,1,PAPER-LA-PAP,-
+Tool,Hacksaw (incl. 12 blades),MINI SAEGE 12 ::150 mm blades,1,2.15,2.15,reichelt,https://www.reichelt.com/de/de/buegelsaege-mit-12-saegeblaettern-150-mm-mini-saege-12-p118052.html
+Tool,Headlamp,Arcas 3W LED; 120 lumen,1,14.99,14.99,Stadler,https://shop.zweirad-stadler.de/Fahrrad-Teile/Elektronik/Outdoorbeleuchtung/Arcas-3W-LED-Stirnlampe.html?listtype=search&searchparam=kopflampe
+Tool,Headphones,HQ-HP107IE :: In-Ear Stereo,1,2,2,reichelt,https://www.reichelt.com/de/de/in-ear-stereo-kopfhoerer-hq-hp107ie-p162299.html?&trstct=pos_1
+Tool,HyracBox,small/big offline server for storing links to important open resources | comes with cable & battery pack,1,0,0,r0g/HyracBox,https://www.hyracbox.com/solutions
+Tool,keyboard replacement stickers USA layout,keyboard replacement stickers USA layout – maxi (14x14),1,6.99,6.99,tastaturaufkleber.eu,https://www.tastaturaufkleber.eu/Tastaturaufkleber/Tastaturaufkleber-PC/Englisch/Tastaturaufkleber-ENGLISCH-USA-MAXI::92.html?MODsid=vqkqk93o35mf3jnu1dnm3b4tp7
+Tool,Laptop | Dell E7240 with OS,Dell Latitude E7240 i5-4300U 1.9GHz 8GB 128GB SSD 12.5 Zorin Educational LITE 14,1,169.9,169.9,brandused,-
+Tool,LED Tester,LED TESTER 2...150MA,1,6.8,6.8,SEGOR,https://www.reichelt.com/de/de/testgeraet-fuer-leds-led-tester-p32856.html
+Tool,Lighter,small one (e.g. BIG),1,1,1,Späti,-
+Tool,Marker,permanent marker 3000 Edding black,1,1.99,1.99,PAPER-LA-PAP,-
+Tool,Mechanical Tool Set Black And Decker,black-orange rolled up tool bag,1,40,40,AMAZON,https://smile.amazon.de/gp/product/B003BUAE70/ 
+Tool,Metal ruler,,1,0.99,0.99,PAPER-LA-PAP,-
+Tool,Multi Battery Charger,ANS 1001-0019 PhotoCam Vario; for all rechargeable batteries,1,18.2,18.2,reichelt,https://www.reichelt.com/de/de/ladegeraet-photocam-vario-fuer-akkupacks-und-akkus-ans-1001-0019-p202581.html
+Tool,Multimeter,MS 8233 B with display light,1,14,14,SEGOR,-
+Tool,Notebook Sleeve 11.6“,Vivanco Notebook Sleeve 11.6,1,12.99,12.99,SATURN,-
+Tool,Pen,,1,0.6,0.6,PAPER-LA-PAP,-
+Tool,Pencil + eraser,,1,1.19,1.19,PAPER-LA-PAP,-
+Tool,Pencil Pouch ,nylon zipper bag (Pen; Pencil; Sharpener; Small Brush; Highlighter; Marker; Metal Ruler),1,3.79,3.79,PAPER-LA-PAP,-
+Tool,Plastic Containers,BOX 11/40  small plastic storage container with lid,4,0.5,2,SEGOR,-
+Tool,Plastic Zipper Bag A4,blue zipper,1,3.5,3.5,Modulor,https://www.modulor.de/reissverschlussbeutel-transparent-265-x-350-fuer-din-a4-reissverschluss-blau.html
+Tool,Plastic Zipper Bag A6,orange zipper,5,1.5,7.5,Modulor,https://www.modulor.de/reissverschlussbeutel-transparent-140-x-178-fuer-din-a6-reissverschluss-orange-oxid.html
+Tool,Plastic Zipper Bag B6,red zipper,2,1.9,3.8,Modulor,https://www.modulor.de/reissverschlussbeutel-transparent-180-x-225-fuer-din-b6-reissverschluss-rot.html
+Tool,Protractor / Ruler,length 160mm,1,1.75,1.75,reichelt,https://www.reichelt.com/de/de/geo-dreieck-hypotenuse-laenge-160mm-ar-1552-p53361.html?&trstct=pos_0
+Tool,Radio Set,FM - MODUL SI 4703,1,7.9,7.9,SEGOR,-
+Tool,Scissors,REXEL 2104242 stainless steel; grün,1,3.95,3.95,reichelt,https://www.reichelt.com/de/de/edelstahlschere-x3-gruen-rexel-2104242-p178165.html
+Tool,Sewing Kit,basic sewing threads and needles and magnifying glas,1,7.99,7.99,AMAZON,https://smile.amazon.de/gp/product/B075ZYCQK1 
+Tool,Sharpener,,1,0.4,0.4,PAPER-LA-PAP,-
+Tool,Small Brush,small yellow-haired paint brush,1,0.85,0.85,PAPER-LA-PAP,-
+Tool,Small Combination Padlock,ABUS Jet Set | 155,1,6.95,6.95,BAUHAUS,https://www.bauhaus.info/vorhaengeschloesser/abus-vorhaengezahlenschloss-15520/p/10170332
+Tool,Soldering Iron Tray,CLEANER 460A incl. cleaner,1,5.95,5.95,reichelt,https://www.reichelt.com/de/de/loetkolbenablage-und-loetspitzenreiniger-cleaner-460a-p87381.html?&trstct=pos_0
+Tool,Soldering tip (extra),round; 3.9mm,1,1.8,1.8,SEGOR,-
+Tool,Textile Tool Box,Travel bag/box; Wera 2 Go 3; Textile; 325x130x80 mm; black with velcro ,1,25.3,25.3,reichelt,https://www.reichelt.com/de/de/werkzeug-box-wera-2-go-3-textil-325x130x80-mm-wera-2go-3-p196338.html
+Tool,Third hand,Third Hand Tool with Magnifying Glass,1,4.75,4.75,reichelt,https://www.reichelt.de/platinenhalter-mit-lupe-mit-standfuss-helfende-hand-halter-zd-10d-p90934.html
+Tool,Tool bag + soldering iron,FIXPOINT 45243 tool bag + soldering iron; 20 parts,1,30.95,30.95,reichelt,https://www.reichelt.com/de/de/werkzeugtasche-und-loetkolben-set-20-teilig-fixpoint-45243-p244928.html
+Tool,Torx Bits (T7; T8; T9),T3 T4 T5 T6 T7 T8 T9 T10 T15 T20 28mm,1,1.89,1.89,ebay,https://www.ebay.de/itm/10-tlg-Torx-Bit-Set-mit-Loch-T3-T4-T5-T6-T7-T8-T9-T10-T15-T20-28mm-LANG-Stuck-DE/223492722109?hash=item3409344dbd:g:h4EAAOSwDvBcv~q5
+Tool,Travel Adapter,KW 38462 including USB plug,1,12.99,12.99,reichelt,https://www.reichelt.com/de/de/universal-reiseadapter-mit-integriertem-usb-ladegeraet-kw-38462-p242808.html
+Tool,Universal Mobile repair Kit,GB 44690 for smartphones; 17 parts; incl. Pentalobe,1,11.1,11.1,reichelt,https://www.reichelt.com/de/de/werkzeugsatz-handy-und-smartphone-17-teilig-inkl-pentalobe-gb-44690-p185964.html
+Tool,USB flash drive (32GB),TOS U301W0320E4 USB-Stick; USB 3.0; 32 GB; U301 white,1,6.95,6.95,reichelt,https://www.reichelt.com/de/de/usb-stick-usb-3-0-32-gb-u301-weiss-tos-u301w0320e4-p164697.html?&trstct=pol_9
+Tool,USB Volt- & Amperemeter,USB Detector/DualDisplay Charger Doctor,1,3.3,3.3,reichelt,https://www.reichelt.com/de/de/raspberry-pi-ampere-voltmeter-1-fach-usb-rpi-usb-meter1-p223622.html 
+Tool,Velcro hook band (30mm),self-adhesive,1,2.9,2.9,klettladen.de,https://www.klettladen.de/product_info.php/products_id/168
+Tool,Velcro loop band (100mm),self-adhesive,2,6.88,13.76,klettladen.de,https://www.klettladen.de/product_info.php/products_id/165
+Tool,Wire Cutter,red & slim,1,4.2,4.2,SEGOR,-
+Tool,Workplace Textile,A0 heavy cotton; grey,0.9,8.9,8.01,Modulor,https://www.modulor.de/schwerer-baumwollstoff-canvas-uni-4795-b-ca-1440-mm-hellgrau-62.html
