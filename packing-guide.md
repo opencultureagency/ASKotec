@@ -52,7 +52,7 @@ Begin by removing / packing the zip back, the lock and the training table cloth
 
 ## #ASKotec body (Layer 09/10)
 
-![#ASKotec body 09](images/packing-guide/askotec-body-layer-09.<jpg)
+![#ASKotec body 09](images/packing-guide/askotec-body-layer-09.jpg)
 
 This layer displays the travel bag (the black bag) stowed towards the opening the of the kit and next the zip bags. In case you’re flying, remove this kit since it contains lithium batteries, multi-meters and other materials that are not allowed to be checked into the plane. So, firstly pack / unpack the travel bag followed by the zip bags which contain wires and glue respective fully.
 
