@@ -1,5 +1,9 @@
 # #ASKotec
 
+## Open Tech Emergency Case
+
+![#ASkotec case front](images/readme/askotec-case-front.jpg)
+
 [#ASKotec](https://openculture.agency/outcomes/askotec/);
 the *Access to Skills and Knowledge Open Tech Emergency Case* is a resource kit for community trainers,
 created for mobile field-use where there is neither easy power nor internet connectivity such as refugee camps,
@@ -8,9 +12,25 @@ Intended as [_Open Tech for Good_](https://openculture.agency/open-technology/),
 by a community of young innovators intent on bringing skills training and peace-building together
 in the effort to end the South Sudan conflict.
 
-![](thumbs/thumb-1.jpg "#ASKotec")
+![working with #ASKotec](images/readme/working-with-askotec.jpg "#ASKotec")
 
-![](thumbs/thumb-2.jpg "#ASKotec")
+![what is in the #ASKotec](images/readme/what-is-in-the-askotec.jpg "#ASKotec")
+
+## [Official Website](https://askotec.openculture.agency/)
+
+## #ASKmods
+
+The Askotec is divided into different modules for different applications. We call these modules #ASKmods. To get information about the individual #ASKmods and how they are built, you can find them in the following repositories:
+
+- [#ASKmod Arduino Set v.1.0](#) ([latest version](#))
+- [#ASKmod Electronics Assortment Set v.1.0](#) ([latest version](https://github.com/opencultureagency/ASKmod-Electronics-Assortment-Set))
+- [#ASKmod First Aid Set v.1.0](#) ([latest version](#))
+- [#ASKmod Glue Set v.1.0](#) ([latest version](#))
+- [#ASKmod Mechanical Tool Set](#) ([latest version](https://github.com/opencultureagency/ASKotec-ASKmod-Mechanical-Tool-Set))
+- [#ASKmod Mobile repair Kit](#) ([latest version](#))
+- [#ASKmod Pencil Case]() ([latest version](https://github.com/opencultureagency/ASKmod-Pencil-Case))
+- [#ASKmod Repair Set](#) ([latest version](https://github.com/opencultureagency/ASKmod-Repair-Set))
+- [#ASKmod Travel Set](#) ([latest version](https://github.com/opencultureagency/ASKmod-Travel-Set))
 
 ## Tutorials
 
@@ -20,7 +40,6 @@ in the effort to end the South Sudan conflict.
 - [Packing Guide Repository](https://github.com/opencultureagency/ASKotec-packing-guide/)
 
 More Video, Photo and binary material can be found in our [Cloud](https://cloud.openculture.agency/s/weSEEpGcwCALrT8)
-
 
 
 ## Costs
@@ -35,23 +54,17 @@ Total     | ~ 980 €
 
 - Support us: crowdfunding at <https://www.betterplace.org/en/projects/63347>
 
+![HyracBox](images/readme/hyracbox.jpg)
 
-![](thumbs/thumb-6.jpg "HyracBox")
-
-
-
-- Learn about [hyracbox.com](https://www.hyracbox.com/),
-  developed by our project partners at
-  [Hyractech](https://github.com/HyracTech)
-
+Learn about [hyracbox.com](https://www.hyracbox.com/), developed by our project partners at [Hyractech](https://github.com/HyracTech)
 
 **Some new features added for Release 2.0:**
 
 - the case is now equiped with hook and loop parts
-![](thumbs/thumb-5.jpg "#ASKotec")
+![#ASKotec new feature hook and loop](images/readme/feature-v.2.0-hookandloop.jpg)
 
 - Everything for traveling with air can now easily be separated into main and hand luggage
-![](thumbs/thumb-5-5.jpg "#ASKotec")
+![#ASKmod Travel Set](images/readme/feature-v.2.0-travelset.jpg)
 
 
 ## Public Relation
@@ -60,7 +73,7 @@ Total     | ~ 980 €
 
 ## FAQ
 
-### What is ASKotec?
+### What is #ASKotec?
 
 The #ASKotec is a kit designed to work as a mobile trainers set
 to tackle basic field challenges when it comes to Open Tech and Open Source Hardware innovation, education and repairing wherever needed.
@@ -69,17 +82,17 @@ gives rural and urban innovators a new point of entrance.
 
 - <https://openculture.agency/askotec/>
 
-![](thumbs/thumb-3.jpg "#ASKotec")
+![Designed for mobile trainers](images/readme/designed-for-mobile-trainers.jpg)
 
-### What can ASKotec be used for?
+### What can #ASKotec be used for?
 
 - repair cafes
 - vocational training in tech, electronics, robotics, innovation, ...
 - ... and more
 
-![](thumbs/thumb-4.jpg "#ASKotec")
+![What can #ASKotec be used for](images/readme/what-can-askotec-be-used-for.jpg)
 
-### Where can ASKotec be used?
+### Where can #ASKotec be used?
 
 - designed for post-conflict and post-disaster regions
 - schools and communities in remote regions
@@ -87,9 +100,7 @@ gives rural and urban innovators a new point of entrance.
 
 ## Open Hardware Links and Open Linux Software
 
-For links, see the [Open Learning Guide (2015)](
-https://github.com/opencultureagency/Open-Learning-Guide)
-and the following resources.
+For links, see the [Open Learning Guide (2015)](https://github.com/opencultureagency/Open-Learning-Guide) and the following resources.
 
 ### RESOURCES
 
@@ -170,7 +181,15 @@ sudo apt install gdebi software-properties-common libavcodec-extra ffmpeg \
 
 ---
 
-![](thumbs/thumb-7.jpg "#ASKotec")
+![#ASKotec in South Sudan](thumbs/askotec-in-south-sudan.jpg ")
 
 Pictures Created by Timm Wille
 Group Picture by Jaiksane
+
+## History
+
+- #ASKotec v.2.0 https://github.com/opencultureagency/ASKotec/tree/ASKotec-2.0
+- #ASKotec v.1.5 https://github.com/opencultureagency/ASKotec/tree/ASKotec-1.5
+- #ASKotec v.1.0 https://github.com/opencultureagency/ASKotec/tree/ASKotec-1.0
+
+[See all Version](https://github.com/opencultureagency/ASKotec/releases)
